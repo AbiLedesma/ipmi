@@ -1,3 +1,9 @@
+//Abi Ledesma - 119065/5
+//TP N°3 - Recuperatorio
+//Prof. David Bedoian
+
+
+
 PImage imagen;
 
 void setup() {
